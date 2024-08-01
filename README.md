@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+const SergioVD81= {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: [ "Angular"],
+         css: ["Angular Material", "Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+  
+};
+
 <!--
 **SergioVD81/SergioVD81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
