@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-const SergioVD81= {
+````const SergioVD81= {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
@@ -16,7 +16,7 @@ const SergioVD81= {
    currentOccupation: ["last year student, open for job opportunities"],
   
 };
-
+````
 <!--
 **SergioVD81/SergioVD81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
