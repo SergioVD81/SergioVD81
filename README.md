@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-```const SergioVD81= {
+```js
+const SergioVD81= {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
